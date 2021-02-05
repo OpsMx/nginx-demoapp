@@ -1,0 +1,24 @@
+{
+  "key1": "value1",
+  "key2": "value2",
+  "frontend": {
+     "gitrepo": "visibility-service",
+     "commitid": "dff38183ac2818fe7a870b4f4f09938453ff03f3568",
+     "jiraticketno": "OP-2686",
+     "jenkinsjob": {
+     "name": "Dev-visibilityservice-build-branch",
+     "buildid": "19",
+     "imageid": "nginx@sha256:2f6f8b826f1fe46e877b25860a0c21143e077dd12d7c1650cf41e31add847dbb"
+     }
+  },
+  "backend": {
+     "gitrepo": "visibility-service",
+     "commitid": "dff38183ac2818fe7a870b4f4f09938453ff03f3568",
+     "jiraticketno": "OP-3685",
+     "jenkinsjob": {
+     "name": "Dev-visibilityservice-build-branch",
+     "buildid": "20",
+     "imageid": "nginx@sha256:6907ea1bf7f121ae60f040dbca1ac676f42157face02d769cb8e39abdcd9b4fe"
+     }
+  } 
+}
